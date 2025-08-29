@@ -1,0 +1,2 @@
+streamlit>=1.37
+dataclasses-json>=0.6.6
